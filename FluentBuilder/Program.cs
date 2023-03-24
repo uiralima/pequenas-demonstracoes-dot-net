@@ -1,4 +1,6 @@
-﻿namespace FluentBuilder
+﻿using FluentBuilder.Builder;
+
+namespace FluentBuilder
 {
     internal class Program
     {
