@@ -1,4 +1,7 @@
-﻿namespace FluentBuilder.Builder
+﻿using FluentBuilder.Entidade;
+using FluentBuilder.Interfaces;
+
+namespace FluentBuilder.Builder
 {
 
     public class CarroBuilderFluent : IMontarCarro
