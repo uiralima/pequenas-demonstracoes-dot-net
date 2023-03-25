@@ -1,5 +1,5 @@
 # FluentBuilder
-Este repositório tem o objetivo de apresentar um exemplo de implementação do padrão de projeto Fluent Builder.
+Este repositório tem o objetivo de apresentar um exemplo de implementação do padrão de código Fluent Builder.
 
 ## O que é o Fluent Builder?
 O Fluent Builder é um padrão de código que tem como objetivo facilitar a criação de objetos complexos.
